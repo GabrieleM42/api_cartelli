@@ -2,33 +2,59 @@
     "cartelli": [
         {
             "id": 1,
-            "titolo": "Cartello 1",
-            "descrizione": "Descrizione 1",
-            "immagine": "cartello1.jpg"
+            "type": "precedenza",
+            "name": "Segnale di precedenza",
+            "desc": "Il segnale raffigurato è un segnale di preavviso di fermarsi e dare precedenza",
+            "img": "https://www.patentati.it/img_sign_400/40.png"
         },
         {
             "id": 2,
-            "titolo": "Cartello 2",
-            "descrizione": "Descrizione 2",
-            "immagine": "cartello2.jpg"
+            "type": "precedenza",
+            "name": "Segnale di incrocio generale",
+            "desc": "Il segnale raffigurato preannuncia un incrocio in cui vale la regola generale di dare la precedenza a destra",
+            "img": "https://www.patentati.it/img_sign_1280/44.png"
         },
         {
             "id": 3,
-            "titolo": "Cartello 3",
-            "descrizione": "Descrizione 3",
-            "immagine": "cartello3.jpg"
+            "type": "precedenza",
+            "name": "Segnale di precedenza alternata",
+            "desc": "Il segnale raffigurato impone, nelle strettoie, di dare precedenza ai veicoli provenienti dal senso opposto",
+            "img": "https://www.patentati.it/img_sign_1280/45.png"
         },
         {
             "id": 4,
-            "titolo": "Cartello 4",
-            "descrizione": "Descrizione 4",
-            "immagine": "cartello4.jpg"
+            "type": "divieto",
+            "name": "Segnale di divieto di transito",
+            "desc": "Vietato il transito dei veicoli",
+            "img": "https://www.patentati.it/img_sign_400/137.png"
         },
         {
             "id": 5,
-            "titolo": "Cartello 5",
-            "descrizione": "Descrizione 5",
-            "immagine": "cartello5.jpg"
+            "type": "divieto",
+            "name": "Segnale di divieto di sosta",
+            "desc": "Vietato fermarsi o sostare",
+            "img": "https://www.patentati.it/img_sign_400/573.png"
+        },
+        {
+            "id": 6,
+            "type": "pericolo",
+            "name": "Segnale di curva pericolosa",
+            "desc": "Indica una curva pericolosa",
+            "img": "https://www.patentati.it/img_sign_400/85.png"
+        },
+        {
+            "id": 7,
+            "type": "pericolo",
+            "name": "Segnale di attraversamento animali",
+            "desc": "Possibilità di attraversamento di animali selvatici",
+            "img": "https://www.patentati.it/img_sign_400/104.png"
+        },
+        {
+            "id": 8,
+            "type": "pericolo",
+            "name": "Segnale di attraversamento ciclisti",
+            "desc": "Possibilità di attraversamento di ciclisti",
+            "img": "https://www.patentati.it/img_sign_400/109.png"
         }
     ]
 }
