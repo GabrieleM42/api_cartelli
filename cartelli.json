@@ -4,57 +4,64 @@
             "id": 1,
             "type": "precedenza",
             "name": "Segnale di precedenza",
-            "desc": "Il segnale raffigurato è un segnale di preavviso di fermarsi e dare precedenza",
+            "desc": "Il segnale raffigurato è un segnale di preavviso di rallentare, eventualmente fermarsi, e dare precedenza. Serve a garantire la sicurezza degli incroci e delle strettoie, incoraggiando i conducenti a cedere il passo ai veicoli provenienti da altre direzioni prima di procedere.",
             "img": "https://www.patentati.it/img_sign_400/40.png"
         },
         {
             "id": 2,
             "type": "precedenza",
             "name": "Segnale di incrocio generale",
-            "desc": "Il segnale raffigurato preannuncia un incrocio in cui vale la regola generale di dare la precedenza a destra",
+            "desc": "Il segnale raffigurato preannuncia un incrocio in cui vale la regola generale di dare la precedenza a destra. È fondamentale per avvisare i conducenti della presenza di un incrocio e stabilire chi ha la precedenza in modo da prevenire incidenti.",
             "img": "https://www.patentati.it/img_sign_1280/44.png"
         },
         {
             "id": 3,
             "type": "precedenza",
             "name": "Segnale di precedenza alternata",
-            "desc": "Il segnale raffigurato impone, nelle strettoie, di dare precedenza ai veicoli provenienti dal senso opposto",
+            "desc": "Il segnale raffigurato impone, nelle strettoie, di dare precedenza ai veicoli provenienti dal senso opposto. È cruciale per regolare il flusso del traffico in situazioni di strettoia, garantendo che i veicoli si concedano reciprocamente il passaggio.",
             "img": "https://www.patentati.it/img_sign_1280/45.png"
         },
         {
             "id": 4,
             "type": "divieto",
             "name": "Segnale di divieto di transito",
-            "desc": "Vietato il transito dei veicoli",
-            "img": "https://www.patentati.it/img_sign_400/137.png"
+            "desc": "Il segnale raffigurato vieta la circolazione nei due sensi. È posto in luoghi dove la circolazione è pericolosa o vietata per motivi di sicurezza stradale o per preservare la tranquillità della zona.",
+            "img": "https://www.patentati.it/img_sign_400/54.png"
         },
         {
             "id": 5,
             "type": "divieto",
             "name": "Segnale di divieto di sosta",
-            "desc": "Vietato fermarsi o sostare",
-            "img": "https://www.patentati.it/img_sign_400/573.png"
+            "desc": "Il segnale raffigurato è posto nei luoghi dove la sosta è vietata. Serve a garantire il flusso del traffico e a evitare situazioni di pericolo o congestione.",
+            "img": "https://www.patentati.it/img_sign_400/84.png"
         },
         {
             "id": 6,
-            "type": "pericolo",
-            "name": "Segnale di curva pericolosa",
-            "desc": "Indica una curva pericolosa",
+            "type": "divieto",
+            "name": "Segnale di divieto di fermata",
+            "desc": "Il segnale raffigurato è posto nei luoghi dove, sia la sosta che la fermata, è vietata. È essenziale per garantire la sicurezza stradale e il flusso ininterrotto del traffico in determinate aree.",
             "img": "https://www.patentati.it/img_sign_400/85.png"
         },
         {
             "id": 7,
             "type": "pericolo",
-            "name": "Segnale di attraversamento animali",
-            "desc": "Possibilità di attraversamento di animali selvatici",
-            "img": "https://www.patentati.it/img_sign_400/104.png"
+            "name": "Segnale di strada deformata",
+            "desc": "Il segnale raffigurato preannuncia un tratto di strada deformata. Serve a avvisare i conducenti di un pericolo imminente sulla strada, consentendo loro di adottare precauzioni adeguate.",
+            "img": "https://www.patentati.it/img_sign_400/1.png"
         },
         {
             "id": 8,
             "type": "pericolo",
-            "name": "Segnale di attraversamento ciclisti",
-            "desc": "Possibilità di attraversamento di ciclisti",
-            "img": "https://www.patentati.it/img_sign_400/109.png"
+            "name": "Segnale di pericolo dosso",
+            "desc": "Il segnale raffigurato preannuncia un dosso. È importante per avvisare i conducenti della presenza di ostacoli sulla strada che potrebbero causare danni ai veicoli o incidenti se non affrontati correttamente.",
+            "img": "https://www.patentati.it/img_sign_400/2.png"
+        },
+        {
+            "id": 9,
+            "type": "pericolo",
+            "name": "Segnale di curva pericolosa",
+            "desc": "Il segnale raffigurato preannuncia una curva pericolosa a destra. È cruciale per avvisare i conducenti della necessità di rallentare e adottare precauzioni extra durante il passaggio attraverso la curva.",
+            "img": "https://www.patentati.it/img_sign_400/4.png"
         }
     ]
 }
