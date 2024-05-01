@@ -66,14 +66,14 @@
         {
             "id": 10,
             "type": "obbligo",
-            "name": "Segnale di obbligo di percorrimento",
+            "name": "Obbligo di percorrimento",
             "desc": "Il segnale raffigurato indica l'obbligo di proseguire dritto. Questo segnale impone ai conducenti di mantenere la direzione attuale senza deviare da essa. È importante seguire questo segnale per evitare incidenti e garantire una corretta fluidità del traffico.",
             "img": "https://www.patentati.it/img_sign_400/93.png"
         },
         {
             "id": 11,
             "type": "obbligo",
-            "name": "Segnale di obbligo di velocità minima",
+            "name": "Obbligo di velocità minima",
             "desc": "Il segnale raffigurato indica il limite di velocità al di sotto del quale è vietato circolare. Questo segnale stabilisce un limite minimo di velocità che i conducenti devono rispettare. È importante mantenere una velocità adeguata per garantire la sicurezza stradale e evitare rallentamenti eccessivi del traffico.",
             "img": "https://www.patentati.it/img_sign_400/105.png"
         },
