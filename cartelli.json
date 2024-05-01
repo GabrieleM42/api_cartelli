@@ -62,6 +62,27 @@
             "name": "Segnale di curva pericolosa",
             "desc": "Il segnale raffigurato preannuncia una curva pericolosa a destra. È cruciale per avvisare i conducenti della necessità di rallentare e adottare precauzioni extra durante il passaggio attraverso la curva.",
             "img": "https://www.patentati.it/img_sign_400/4.png"
+        },
+        {
+            "id": 10,
+            "type": "obbligo",
+            "name": "Segnale di obbligo di percorrimento",
+            "desc": "Il segnale raffigurato indica l'obbligo di proseguire dritto. Questo segnale impone ai conducenti di mantenere la direzione attuale senza deviare da essa. È importante seguire questo segnale per evitare incidenti e garantire una corretta fluidità del traffico.",
+            "img": "https://www.patentati.it/img_sign_400/93.png"
+        },
+        {
+            "id": 11,
+            "type": "obbligo",
+            "name": "Segnale di obbligo di velocità minima",
+            "desc": "Il segnale raffigurato indica il limite di velocità al di sotto del quale è vietato circolare. Questo segnale stabilisce un limite minimo di velocità che i conducenti devono rispettare. È importante mantenere una velocità adeguata per garantire la sicurezza stradale e evitare rallentamenti eccessivi del traffico.",
+            "img": "https://www.patentati.it/img_sign_400/105.png"
+        },
+        {
+            "id": 12,
+            "type": "obbligo",
+            "name": "Segnale di via pedonale",
+            "desc": "Il segnale raffigurato è un segnale di obbligo e indica l'inizio di un viale pedonale. Questo segnale informa i conducenti che la strada successiva è dedicata esclusivamente ai pedoni e che il transito dei veicoli è vietato. È importante rispettare questo segnale per garantire la sicurezza dei pedoni e il corretto utilizzo dello spazio stradale.",
+            "img": "https://www.patentati.it/img_sign_400/108.png"
         }
     ]
 }
